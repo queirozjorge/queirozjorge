@@ -15,13 +15,8 @@
 
 <br/>
 
-### Estatísticas:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queirozjorge&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queirozjorge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias que estou estudando:
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -36,3 +31,9 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
+
+### Estatísticas:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queirozjorge&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queirozjorge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
