@@ -11,6 +11,8 @@
 - 🗨️Minhas principais skills são aprender rápido e trabalhar em equipe. Adoro interagir com pessoas dedicadas e unidas a fim de atingir um objetivo em comum.
 - 📖 Eu adoro ler, assistir ficção científica e andar de bike. 🚴
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queirozjorge&show_icons=true&theme=tokyonight)
