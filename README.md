@@ -38,8 +38,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queirozjorge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> 
- ### Total de visitas no meu perfil :detective: <br>
+<p align="center">
+  
+ ### Total de visitas no meu perfil: <br>
+  
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/queirozjorge/count.svg" />
  </p>
