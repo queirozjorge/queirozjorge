@@ -15,6 +15,12 @@
 
 <br/>
 
+State currentState = new Me().getState();
+while(currentState == State.AWAKE) {
+	me.code(Coffe coffe);
+}
+<br/>
+
 ### Tecnologias que estou estudando:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
