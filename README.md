@@ -15,10 +15,13 @@
 
 <br/>
 
+ <p align="center"> 
 ### State currentState = new Me().getState();
 ### while(currentState == State.AWAKE) {
 ###	me.code(Coffe coffe);
 ### }
+  <p/>
+  
 <br/>
 
 ### Tecnologias que estou estudando:
