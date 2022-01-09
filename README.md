@@ -15,10 +15,10 @@
 
 <br/>
 
-State currentState = new Me().getState();
-while(currentState == State.AWAKE) {
-	me.code(Coffe coffe);
-}
+### State currentState = new Me().getState();
+### while(currentState == State.AWAKE) {
+###	me.code(Coffe coffe);
+### }
 <br/>
 
 ### Tecnologias que estou estudando:
