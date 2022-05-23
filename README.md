@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/website?label=CURSOS/ALURA/JORGE&style=for-the-badge&url=https://cursos.alura.com.br/user/jorgequeiroz)](https://cursos.alura.com.br/user/jorgequeiroz)
 [![Blog](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jorge.queiroz@outlook.com.br)
 
-- ⚙️Atualmente sou Técnico em Telecomunicações @MasterServices.
+- ⚙️Atualmente sou Dev Trainee @AriusSistemas.
 - 📚Estou estudando para me tornar dev backend @Alura.
 - ⚡Formado em Engenharia Elétrica e Técnico em Informática, vou iniciar agora em 2022 meus estudos através do curso superior: Análise e Desenvolvimento de Sistemas.
 - 🗨️Minhas principais skills são aprender rápido e trabalhar em equipe. Adoro interagir com pessoas dedicadas e unidas a fim de atingir um objetivo em comum.
