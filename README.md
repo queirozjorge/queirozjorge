@@ -7,7 +7,6 @@
 
 - ⚙️Atualmente sou Dev Trainee @AriusSistemas.
 - 📚Estou estudando para me tornar dev backend @Alura.
-- ⚡Formado em Engenharia Elétrica e Técnico em Informática, vou iniciar agora em 2022 meus estudos através do curso superior: Análise e Desenvolvimento de Sistemas.
 - 🗨️Minhas principais skills são aprender rápido e trabalhar em equipe. Adoro interagir com pessoas dedicadas e unidas a fim de atingir um objetivo em comum.
 - 📖 Eu adoro ler, assistir ficção científica e andar de bike. 🚴
 
