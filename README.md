@@ -6,9 +6,6 @@
 [![Blog](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jorge.queiroz@outlook.com.br)
 
 - ⚙️Atualmente sou Dev Trainee @AriusSistemas.
-- 📚Estou estudando para me tornar dev backend @Alura.
-- 🗨️Minhas principais skills são aprender rápido e trabalhar em equipe. Adoro interagir com pessoas dedicadas e unidas a fim de atingir um objetivo em comum.
-- 📖 Eu adoro ler, assistir ficção científica e andar de bike. 🚴
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
