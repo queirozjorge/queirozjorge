@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/website?label=CURSOS/ALURA/JORGE&style=for-the-badge&url=https://cursos.alura.com.br/user/jorgequeiroz)](https://cursos.alura.com.br/user/jorgequeiroz)
 [![Blog](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jorge.queiroz@outlook.com.br)
 
-- ⚙️Atualmente sou Dev Trainee @AriusSistemas.
+- ⚙️Atualmente sou Dev Jr. @Deloitte.
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
