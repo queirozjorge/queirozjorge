@@ -31,9 +31,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
- ### Visitas: 
- <br>
+ ### Visitas:
  <p align="left"> 
    <img alingn="center" src="https://profile-counter.glitch.me/queirozjorge/count.svg" />
  </p>
-</p>
