@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jorge! 🤟 Atualmente sou Dev Jr. @Deloitte.
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/queirozjorge-engenharia/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/queirozjorge-dev/)
 [![Blog](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jorge.queiroz@outlook.com.br)
 
 ### Linguagens
